@@ -4,3 +4,6 @@ Ejemplo de bot de discord escrito en python basado en:
 
 Para mas informacion tambien se puede consultar:
 - [discord.py](https://discordpy.readthedocs.io/en/latest/api.html#)
+
+## uso
+crear un archivo .env y agregar las variables de entorno correspondientes
