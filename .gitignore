@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # ignorar variables de entorno privadas
-source/private.env
+source/.env
